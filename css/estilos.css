@@ -3,9 +3,21 @@ body {
     font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
     color: green;
-    margin: 0;
     padding: 0;
+    margin: 0;
+
+}
+#Header {
+    background-color: aqua;
+    color: white;
+    font-weight: 600;
+    margin: 0%;
+    padding: 0%;
 }
 #container {
     width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
