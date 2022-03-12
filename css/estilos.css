@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-size: 16px;
     font-family: Arial;
-    color: #333;
+    color: white;
     padding: 0;
     margin: 0;
     background: #1e1f24;
@@ -17,10 +17,11 @@ body {
     padding: 0.5em;
 }
 #container {
+    margin-top: 4em;
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid blue;
     margin: 0 auto;
 }
 footer {
