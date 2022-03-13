@@ -1,6 +1,6 @@
 Hola estoy probando git con  linux y visual studio code :)
 
-Master 1
+Master 1.0
 
 
 
